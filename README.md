@@ -1,4 +1,4 @@
-#GazeControl
+# GazeControl
 
 Gaze Control is a python based script that uses your webcam to enable you to control your PC using only your nose and eyes.It takes the spatial position of your eyes and maps it to your Windows cursor.As for the eyes when you blink both your eyes once it registers as a left click and on blinking twice consecutively registers as a right click.
 
