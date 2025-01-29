@@ -1,3 +1,6 @@
+# Copyright (c) 2024 SilentOne. All rights reserved.
+# Unauthorized copying of this file, via any medium, is strictly prohibited.
+
 import cv2
 import mediapipe as mp
 import numpy as np
