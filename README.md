@@ -3,6 +3,7 @@ Gaze Control is a python based script that uses your webcam to enable you to con
 GazeControl is mainly oriented towards differently abled users.Improving their quality of life and ease of life.Being an early release it is suceptible to having a few bugs.Such as the incorrect blink detection when looking up or down and the script not being able to detect blinks due to very strong light source behind the user.
 
 #Pre-requisite
+
 Python
 Pytorch
 CUDA(Optional)
