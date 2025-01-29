@@ -34,3 +34,7 @@ pip3 install torch torchvision torchaudio
 ```
 pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
 ```
+
+# Future ideas
+### -May Replace the blink detection logic with a transformer based approach
+### -Providing a Cleaner GUI based interface for ease of access
