@@ -1,8 +1,10 @@
 # GazeControl
 
-Gaze Control is a python based script that uses your webcam to enable you to control your PC using only your nose and eyes.It takes the spatial position of your eyes and maps it to your Windows cursor.As for the eyes when you blink both your eyes once it registers as a left click and on blinking twice consecutively registers as a right click.
+GazeControl is a Python-based application that leverages your webcam to enable hands-free PC control using facial tracking powered by MediaPipe and PyTorch. The script maps the spatial position of your nose to your Windows cursor, allowing for smooth navigation. Additionally, eye blinks serve as input gestures—a single blink triggers a left-click, while two consecutive blinks register as a right-click.
 
-GazeControl is mainly oriented towards differently abled users.Improving their quality of life and ease of life.Being an early release it is suceptible to having a few bugs.Such as the incorrect blink detection when looking up or down and the script not being able to detect blinks due to very strong light source behind the user.
+Designed primarily for differently-abled users, GazeControl aims to enhance accessibility and improve ease of use. As an early release, it may exhibit occasional issues, such as inaccurate blink detection when the user looks up or down, or failure to detect blinks in environments with intense backlighting.
+
+This implementation utilizes CUDA acceleration (if available) for real-time tracking and integrates smoothing algorithms for cursor stability. Future updates will focus on refining detection accuracy and expanding functionality.
 
 # Pre-requisite
 
