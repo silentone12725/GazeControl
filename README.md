@@ -5,7 +5,9 @@ GazeControl is mainly oriented towards differently abled users.Improving their q
 # Pre-requisite
 
 Python
+
 Pytorch
+
 CUDA(Optional)
 
 # Installation 
